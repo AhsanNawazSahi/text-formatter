@@ -1,6 +1,6 @@
 Paste the Copied Content in Area
 
-![screencapture-localhost-text-formatter-2024-06-27-22_38_29](https://github.com/AhsanNawazSahi/text-formatter/assets/125664781/df226034-cf28-43e2-b653-77dee4fbb5aa)
+![screencapture-localhost-text-formatter-2024-06-27-22_38_29](https://github.com/AliNawazSahi/text-formatter/assets/125664781/df226034-cf28-43e2-b653-77dee4fbb5aa)
 
 Choose Your formate
 
